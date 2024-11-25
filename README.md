@@ -1,3 +1,63 @@
+
+integrations / integrate / integrating
+platforms
+resources
+granted permissions
+constrained
+scope
+ignoring
+obtain
+endpoint
+
+
+manage
+retrieve
+across
+devices
+fetch
+recent activity
+exposes 
+user preferences
+
+handy
+customization 
+Common 
+preferred 
+timezone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
